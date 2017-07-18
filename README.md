@@ -1,3 +1,3 @@
-# Workflows cours
+# Workflows course
 
 Exercise in workflows
